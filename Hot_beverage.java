@@ -13,10 +13,6 @@ public class Hot_beverage extends Beverage{
     public int getTemperature() {
         return temperature;
     }
-    @Override
-    public String getName() {
-        return super.getName();
-    }
 
 
     @Override
