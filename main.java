@@ -22,7 +22,7 @@ public class main {
         Automat list = new Automat();
         list.initProduct(my_list);
 
-        Hot_avtomat hot_list = new Hot_avtomat();
+        Hot_automat hot_list = new Hot_automat();
         hot_list.initProduct(my_list);
 
         String name = "Bushido";

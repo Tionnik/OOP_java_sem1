@@ -1,6 +1,6 @@
 package OOP_java_sem1;
 
-public class Hot_avtomat extends Automat{
+public class Hot_automat extends Automat{
 
     public Product getProduct(String name,  double volume, int temperature){
         for (Product el : list_products) {
